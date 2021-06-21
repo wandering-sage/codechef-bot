@@ -21,7 +21,7 @@
 - This bot is created to help you save time and to keep your codes organised.
 
 ## Results
-<img src="ss.png">
+<img src="ss.png" height="400px">
 
 ## Getting Started
 - Clone this repo and unzip the folder on desktop or wherever you want.
