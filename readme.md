@@ -4,14 +4,12 @@
 
 <p>
   <strong>A bot to fetch questions and test cases from CodeChef.</strong>
-</p>
-
-
-<p>
+  <br/>
   <sub>Made with ❤︎ by
     <a href="https://github.com/wandering-sage">Shivam Kumar</a>
   </sub>
 </p>
+
 </div>
 
 ## Description
