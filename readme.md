@@ -1,11 +1,9 @@
 <div align="center">
 
-<h1>Project Title</h1>
+<h1>CodeChef Bot</h1>
 
 <p>
-  <strong>A website Desc.</strong>
-  <br /><br />
-  Build from scratch with no dependency.
+  <strong>A bot to fetch questions and test cases from CodeChef.</strong>
 </p>
 
 
@@ -16,8 +14,14 @@
 </p>
 </div>
 
+## Description
+- This is a command line program that will create files for the corresponding questions of the given contest.
+- Just provide contest code and the directory where you want to save the files, this bot will fetch questions and test cases and make 4 files, i.e. sol.cpp, input.txt, expected.txt and test.js for each question.
+- sol.cpp is just the copy of template.cpp of this repo feel free to change it to your preference.
+- This bot is created to help you save time and to keep your codes organised.
 
-## Project in Action
+## Results
+<img src="ss.png">
 
 ## Getting Started
 - Clone this repo and unzip the folder on desktop or wherever you want.
@@ -43,12 +47,7 @@ node index.js COOK130B
 ```bash
 node index.js COOK130B "D:\Vs C++"
 ```
-- Type npm run build to make bundle for production.
-```bash
-npm run build
-```
 
 ## Features
-- Something here
-- 'Something here' strikes again
+
 
