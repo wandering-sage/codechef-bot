@@ -1,0 +1,20 @@
+{
+  "name": "codechef-bot",
+  "version": "1.0.0",
+  "description": "A bot to fetch all questions and their text cases from CodeChef.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "codechef",
+    "competitive-programming",
+    "javascript",
+    "node.js",
+    "bot"
+  ],
+  "author": "wandering-sage",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
